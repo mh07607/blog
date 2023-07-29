@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    align-items: center;
+}
+
+p {
+    flex: 1;
+    background-color: beige;
+    max-width: 500px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
